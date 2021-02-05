@@ -1,0 +1,1 @@
+Please extract attached project source code and restore node_modules, when you'll run the project you need to update the API root url in app.ts in Web project
